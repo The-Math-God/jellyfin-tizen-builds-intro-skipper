@@ -5,6 +5,8 @@ this has been modified to have intro-skipper plugin support
 due to 10.8.12 being the latest custom webui for intro skipper 
 until newer versions are made i can't make any updates
 
+creddit to (https://github.com/Bobby306/intro-skipper) for the custom webui files which made this possible 
+
 ## Installation
 For a one step install process using Docker, check out this guide made by Georift [Georift/install-jellyfin-tizen](https://github.com/Georift/install-jellyfin-tizen).
 
