@@ -10,7 +10,7 @@ For a one step install process using Docker, check out this guide made by Georif
 
 ### Prerequisites
 - Tizen Studio with CLI (https://developer.tizen.org/development/tizen-studio/download)
-- One of the .wgt files from a release (https://github.com/jeppevinkel/jellyfin-tizen-builds/releases)
+- One of the .wgt files from a release (https://github.com/The-Math-God/jellyfin-tizen-builds-with-intro-skipper-support/releases)
 
 ### Getting Started
 1. Install prerequisites. Yup nothing else needed.
