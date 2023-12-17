@@ -1,6 +1,6 @@
 # jellyfin-tizen-builds-with-intro-skipper-support
 
-this has been modified to have the intro skipper button
+this has been modified to have intro-skipper plugin support
 
 due to 10.8.12 being the latest custom webui for intro skipper 
 until newer versions are made i can't make any updates
