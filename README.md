@@ -3,7 +3,7 @@ The purpose of this repository is to automatically build the most up-to-date ver
 
 this has been modified to have the intro skipper button
 
-due to 10.8.12 being the latest custom webui for intro skipper
+due to 10.8.12 being the latest custom webui for intro skipper 
 until newer versions are made i can't make any updates
 
 ## Installation
