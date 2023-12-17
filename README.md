@@ -3,6 +3,9 @@ The purpose of this repository is to automatically build the most up-to-date ver
 
 this has been modified to have the intro skipper button
 
+due to 10.8.12 being the latest webui for intro skipper 
+until newer versions are made i can't make any updates
+
 ## Installation
 For a one step install process using Docker, check out this guide made by Georift [Georift/install-jellyfin-tizen](https://github.com/Georift/install-jellyfin-tizen).
 
