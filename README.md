@@ -1,5 +1,6 @@
 # jellyfin-tizen-builds
 The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
+
 this has been modified to have the intro skipper button
 
 ## Installation
